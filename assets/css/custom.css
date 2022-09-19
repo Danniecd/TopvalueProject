@@ -1,0 +1,347 @@
+body,
+div,
+b,
+span,
+h5 {
+  font-family: "Kanit", sans-serif;
+}
+
+.col-search {
+  padding-top: 17px;
+}
+
+.col-logo {
+  padding-top: 13px;
+}
+
+.tel {
+  color: #bb282b;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.link-user {
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+.link-cart {
+  margin-top: 10px;
+}
+.footer-subtopvalue {
+  margin-right: 100px;
+}
+.tworow-footer {
+  margin-top: 5px;
+}
+.footer-topvalue {
+  font-weight: bolder;
+  margin-right: 75px;
+}
+.menu-bg {
+  background-color: #ba0511;
+  margin-top: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.footer {
+  background-color: #e8e8e8;
+  margin-top: 50px;
+  padding-top: 28px;
+  padding-bottom: 38px;
+}
+.footer-two {
+  margin-top: 20px;
+}
+.head-footer {
+  font-weight: bolder;
+}
+.icon {
+  width: 20%;
+  margin-right: 29px;
+  margin-top: 10px;
+}
+.col-nav-link {
+  text-align: center;
+  color: white;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.form-control {
+  margin-right: 10px;
+}
+.copyright {
+  color: #b2b2b2;
+  font-size: 15px;
+  text-align: center;
+}
+.register {
+  margin-left: 10px;
+}
+.col-breadcrumb {
+  margin-top: 10px;
+  padding-left: 0px;
+  padding-top: 0px;
+}
+
+.samsung {
+  margin-left: 10px;
+}
+.star .fa-star {
+  color: #bbbbbb;
+}
+.content-icon {
+  float: right;
+  margin-right: 10px;
+}
+.content-icon .fa-heart {
+  margin-left: 10px;
+  color: #bbbbbb;
+}
+.content-icon .fa-share-nodes {
+  color: #bbbbbb;
+}
+.star .color {
+  color: #fbd64e;
+}
+
+.pricepercent {
+  color: #7d7d7d;
+  margin-left: 10px;
+  font-size: 15px;
+}
+.Promotetime {
+  color: #0c0c0c;
+  margin-left: 15px;
+  font-size: 12px;
+  font-weight: bold;
+}
+.btn-outline-danger {
+  margin-left: 15px;
+}
+.btn-outline-primary {
+  margin-left: 15px;
+}
+.btn-outline-success {
+  margin-left: 50px;
+}
+.Promotion {
+  color: #0c0c0c;
+  margin-left: 10px;
+  font-size: 16px;
+  font-weight: bold;
+}
+.fa-asterisk {
+  color: #ba0511;
+  margin-right: 50px;
+}
+.plschoose {
+  margin-left: 280px;
+  color: #b60d18;
+  font-size: 17px;
+}
+.btn-danger {
+  margin-left: 340px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.count {
+  color: #0c0c0c;
+  margin-left: 10px;
+  font-size: 16px;
+  font-weight: bold;
+}
+.VAT {
+  color: #7d7d7d;
+  margin-left: 10px;
+  font-size: 12px;
+}
+.price {
+  color: #7d7d7d;
+  margin-left: 10px;
+  font-size: 15px;
+  text-decoration-line: line-through;
+}
+.price-sale {
+  color: #c83035;
+  font-weight: bold;
+  margin-left: 10px;
+  font-size: 20px;
+}
+
+.col-phone {
+  margin-top: 19px;
+}
+
+.shipping {
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+
+.fa-circle-exclamation {
+  float: right;
+  margin-top: 5px;
+  margin-right: 8px;
+}
+.col-thingadvice {
+  margin-top: 20px;
+  padding-top: 5px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.Samsung-galaxy-j8-infor {
+  margin-left: 20px;
+  font-size: 15px;
+}
+.sub-infor {
+  font-size: 15px;
+  margin-left: 20px;
+  font-weight: bold;
+}
+.ul-sub-infor {
+  font-size: 15px;
+  margin-left: 20px;
+}
+.productpicture {
+  margin-left: 20px;
+}
+.Samsung-galaxy-j8 {
+  margin-left: 20px;
+  font-weight: bolder;
+}
+.recommandproduct {
+  margin-left: 20px;
+}
+.saleprice-phone1 {
+  color: #c83035;
+  margin-left: 10px;
+}
+.price-phone1 {
+  color: #7d7d7d;
+  margin-left: 10px;
+  font-size: 15px;
+  text-decoration-line: line-through;
+}
+.price-phone1-percent {
+  color: #7d7d7d;
+  margin-left: 10px;
+  font-size: 15px;
+  margin-left: 150px;
+}
+.productadvice {
+  margin-top: 5px;
+  text-align: center;
+}
+.phone-fullinfor {
+  margin-left: 10px;
+  margin-top: 5px;
+  color: #c1212a;
+}
+.col-advice {
+  margin-top: 20px;
+  padding-top: 5px;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+.phonename1 {
+  font-size: 12px;
+  margin-left: 10px;
+}
+.col-phone-info {
+  padding-left: 0px;
+  margin-top: 20px;
+  padding-top: 5px;
+  padding-right: 0px;
+}
+.col-shiping .bg-grey {
+  background-color: #f9f9f9;
+  margin-top: 20px;
+  padding-top: 5px;
+  padding-bottom: 50px;
+}
+
+.fa-calendar {
+  margin-left: 30px;
+  margin-right: 5px;
+}
+
+.fa-truck {
+  margin-left: 30px;
+  margin-right: 5px;
+}
+
+.delivery {
+  font-size: 15px;
+}
+
+.trucking {
+  margin-top: 10px;
+  font-size: 15px;
+}
+
+.buy-trucking {
+  font-size: 10px;
+  margin-left: 60px;
+}
+
+.head-insurance {
+  font-size: 11px;
+  margin-left: 10px;
+  padding-top: 0px;
+}
+
+.shipping {
+  font-size: 11px;
+}
+
+.check-by-topvalue {
+  font-size: 15px;
+  margin-top: 10px;
+  margin-left: 30px;
+  margin-right: 5px;
+}
+
+.fa-globe {
+  margin-right: 5px;
+}
+
+.fa-arrows-rotate {
+  margin-left: 30px;
+  margin-right: 5px;
+}
+
+.fa-shield {
+  margin-left: 30px;
+  margin-right: 5px;
+}
+
+.insurance {
+  font-size: 15px;
+  margin-top: 10px;
+}
+
+.change {
+  font-size: 15px;
+  margin-top: 10px;
+}
+
+.buyout {
+  font-size: 15px;
+  margin-left: 30px;
+  margin-bottom: 10px;
+}
+
+.view {
+  font-size: 15px;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+
+.fa-dropbox {
+  margin-right: 4px;
+  margin-bottom: 10px;
+}
+
+.fa-magnifying-glass {
+  margin-right: 4px;
+}
